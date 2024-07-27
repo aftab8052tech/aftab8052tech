@@ -12,9 +12,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/aftab8052tech](https://github.com/aftab8052tech)
 
 - 📫 How to reach me **mohdayan9721@gmail.com**
-
-- 📄 Know about my experiences [https://www.overleaf.com/project/65b1e2c388eca2ae09e71f18](https://www.overleaf.com/project/65b1e2c388eca2ae09e71f18)
-
+  
 - ⚡ Fun fact **Playing Cricket🏏**
 
 <h3 align="left">Connect with me:</h3>
